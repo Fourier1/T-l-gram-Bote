@@ -1,0 +1,2 @@
+before I can use my bot telegram it will have to install the necessary library for the start of the bot
+  ======: pip install daemon -r requirements.txt
